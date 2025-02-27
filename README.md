@@ -16,4 +16,6 @@ Este é um projeto simples de uma webpage para uma receita de cookie. Utilizei H
 ## Tecnologias Utilizadas
 
 - HTML
-- 
+- CSS
+
+  ## Rocketseat 💜
